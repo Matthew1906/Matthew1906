@@ -36,6 +36,28 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+## College Projects
+| Name | Class | Description | Tools |
+|-----|------|-----|----|
+| [Kenshin Impact](https://github.com/Matthew1906/COMP6176-KenshinImpact) | COMP6176 - Human and Computer Interaction LAB Project | website that promotes Kenshin Impact game | HTML, CSS, JS, and JQuery |
+|[Netplix](https://github.com/Matthew1906/ISYS6169001-Netplix) | ISYS6169001 - Database Systems LEC Project | movie watchlist and review website | Laravel and Bootstrap CSS.
+|[Flight Passenger Satisfaction Prediction](https://github.com/Matthew1906/COMP67450001-FlightPassengerSatisfaction) | COMP67450001 - Machine Learning LEC Project | web application that predicts flight passenger satisfaction | CatBoost and Streamlit |
+| [MaiBoutique](https://github.com/Matthew1906/COMP6681001-MaiBoutique) | COMP6681001 - Web Programming LAB Project | simple online shop application | Laravel and Tailwind CSS |
+| [Quizzes](https://github.com/Matthew1906/COMP6681001-Quizzes) | COMP6681001 - Web Programming LEC Project | school quiz management web application | Laravel and Bootstrap CSS |
+| [MyAnimeRecs](https://github.com/Matthew1906/MyAnimeRecs) | Thesis Proof of Concept | simple anime recommendation website | React and Flask |
+
+## Personal Projects
+| Name | Description | Tools |
+|-----|------|-----|
+| [Minigame Compilation](https://github.com/Matthew1906/C-MINIGAME-COMPILATION) | compilation of minigames | C and C++ |
+| [100 Days of Python](https://github.com/Matthew1906/100DaysOfPython) | all my notes, exercises, and projects while studying through 100 Days of Python course on Udemy | Python |
+| [Shoplexify](https://github.com/Matthew1906/Shoplexify) | simple multi-page online shop application | Flask and Bootstrap CSS |
+| [MyAnimeList Scraper](https://github.com/Matthew1906/MyAnimeListScraper) | web scraper that retrieves anime, watchlist, and review data from https://myanimelist.net/ | BeautifulSoup and Selenium with Python |
+| [Recipilation](https://github.com/Matthew1906/Recipilation) | single-page recipe blog web application | MERN stack and Tailwind CSS |
+| [KerjaWOI](https://github.com/Matthew1906/KerjaWOI) | project management web application | Next.js, Tailwind CSS, and Prisma ORM |
 
 ## Statistics
 [![Matthew A M's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew1906&theme=tokyonight&hide=stars,issues&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
