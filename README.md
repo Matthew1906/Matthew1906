@@ -42,9 +42,9 @@
 ## Personal Projects
 | Name | Description | Tools |
 |-----|------|-----|
-| [Minigame Compilation](https://github.com/Matthew1906/C-MINIGAME-COMPILATION) | compilation of minigames | C and C++ |
+| [Minigame Compilation](https://github.com/Matthew1906/C-MINIGAME-COMPILATION) | compilation of CLI minigames | C and C++ |
 | [100 Days of Python](https://github.com/Matthew1906/100DaysOfPython) | all my notes, exercises, and projects while studying through 100 Days of Python course on Udemy | Python |
-| [Shoplexify](https://github.com/Matthew1906/Shoplexify) | simple multi-page online shop application | Flask and Bootstrap CSS |
+| [Shoplexify](https://github.com/Matthew1906/Shoplexify) | simple multi-page online shop website | Flask and Bootstrap CSS |
 | [MyAnimeList Scraper](https://github.com/Matthew1906/MyAnimeListScraper) | web scraper that retrieves anime, watchlist, and review data from https://myanimelist.net/ | BeautifulSoup and Selenium with Python |
 | [Recipilation](https://github.com/Matthew1906/Recipilation) | single-page recipe blog web application | MERN stack and Tailwind CSS |
 | [KerjaWOI](https://github.com/Matthew1906/KerjaWOI) | project management web application | Next.js, Tailwind CSS, and Prisma ORM |
