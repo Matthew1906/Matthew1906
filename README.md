@@ -39,7 +39,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-## Personal Projects
+## Personal Notes and/or Projects
 | Name | Description | Tools |
 |-----|------|-----|
 | [Minigame Compilation](https://github.com/Matthew1906/C-MINIGAME-COMPILATION) | compilation of CLI minigames | C and C++ |
