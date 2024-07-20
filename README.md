@@ -1,6 +1,6 @@
 # Hello there, my name is Matthew Adrianus Mulyono!👋
-#### I'm currently majoring in Computer Science in [Bina Nusantara University](https://binus.ac.id/)
-#### I am currently interested in the field of Web Development
+#### I'm a Computer Science Graduate from [Bina Nusantara University](https://binus.ac.id/), currently working as a Technical Consultant in [PT. Indonesia Global Solusindo](https://www.is-gs.com/)
+
 #### This account stores most of my projects, including my portofolio projects, university projects, competition submissions, and course progress trackers (repositories that contain all notes and projects i made of a specific course)
 #### Feel free to take a look around my repositories, and have a nice day! 😊
 
