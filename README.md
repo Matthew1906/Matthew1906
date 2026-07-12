@@ -1,8 +1,9 @@
 # Hello there, my name is Matthew Adrianus Mulyono!👋
-#### I'm a Computer Science Graduate from [Bina Nusantara University](https://binus.ac.id/), currently working as a Technical Consultant in [PT. Indonesia Global Solusindo](https://www.is-gs.com/)
-
-#### This account stores most of my projects, including my portofolio projects, university projects, competition submissions, and course progress trackers (repositories that contain all notes and projects i made of a specific course)
-#### Feel free to take a look around my repositories, and have a nice day! 😊
+#### I'm a Software Engineer based in Jakarta, currently working at [PT. Indonesia Global Solusindo](https://www.is-gs.com/), where I build and own production systems across enterprise operations and regulated financial domains.
+ 
+#### This account stores most of my projects — portfolio projects, university work, competition submissions, course progress trackers, and personal experiments. Not everything here is polished, but it shows how I've been learning and building over the years.
+ 
+#### Feel free to take a look around, and have a nice day! 😊
 
 ## Contact Information:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthewadrianus@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matthew_adrianus/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthewadrianusm/)
@@ -32,6 +33,10 @@
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)](#)
+[![NATS](https://img.shields.io/badge/NATS-white?style=for-the-badge&logo=natsdotio&logoColor=green)](#)
+[![Turborepo](https://img.shields.io/badge/Turborepo-white?style=for-the-badge&logo=turborepo&logoColor=black)](#)
 
 ## Personal Notes and/or Projects
 | Name | Description | Tools |
@@ -61,7 +66,3 @@
 
 </details>
 
-## Statistics
-[![Matthew A M's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew1906&theme=tokyonight&hide=stars,issues&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Matthew A M's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew1906&hide=jupyter%20notebook&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
